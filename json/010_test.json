@@ -1,0 +1,14 @@
+{
+    "--input_dir": [
+        "../datasets/000_dataset",
+        "str"
+    ],
+    "--output_dir": [
+        "../datasets",
+        "str"
+    ],
+    "--test_run": [
+        "True",
+        "bool"
+    ]
+}
