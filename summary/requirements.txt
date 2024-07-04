@@ -1,2 +1,8 @@
 Pillow
 Path
+numpy
+pandas
+matplotlib
+tqdm
+scikit-learn
+ipywidgets
